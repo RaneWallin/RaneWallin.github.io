@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3938415-9805-4229-b86c-b135d6d599d4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/csc-match.html" beforeDir="false" afterPath="$PROJECT_DIR$/csc-match.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game-of-life.html" beforeDir="false" afterPath="$PROJECT_DIR$/game-of-life.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pixie-pal.html" beforeDir="false" afterPath="$PROJECT_DIR$/pixie-pal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ps-cosplay-mag.html" beforeDir="false" afterPath="$PROJECT_DIR$/ps-cosplay-mag.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ps-think-mag.html" beforeDir="false" afterPath="$PROJECT_DIR$/ps-think-mag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -55,7 +52,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ps-think-mag.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -64,9 +61,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="121" column="69" selection-start-line="121" selection-start-column="69" selection-end-line="121" selection-end-column="69" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -109,6 +110,7 @@
         <option value="$PROJECT_DIR$/game-of-life.html" />
         <option value="$PROJECT_DIR$/ps-cosplay-mag.html" />
         <option value="$PROJECT_DIR$/ps-think-mag.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -174,7 +176,7 @@
       <option name="presentableId" value="Default" />
       <updated>1544996522140</updated>
       <workItem from="1544996523587" duration="10411000" />
-      <workItem from="1558548802150" duration="709000" />
+      <workItem from="1558548802150" duration="940000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1544999323792</created>
@@ -351,11 +353,32 @@
       <option name="project" value="LOCAL" />
       <updated>1558548961830</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="fixing links">
+      <created>1558549519610</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1558549519610</updated>
+    </task>
+    <task id="LOCAL-00027" summary="fixing links">
+      <created>1558549549737</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1558549549737</updated>
+    </task>
+    <task id="LOCAL-00028" summary="updating subheading">
+      <created>1558549676502</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1558549676502</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11120000" />
+    <option name="totallyTimeSpent" value="11351000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -399,7 +422,9 @@
     <MESSAGE value="adding theme" />
     <MESSAGE value="changing theme" />
     <MESSAGE value="Building new portfolio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Building new portfolio" />
+    <MESSAGE value="fixing links" />
+    <MESSAGE value="updating subheading" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating subheading" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/404.html">
@@ -461,24 +486,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact_form/contact_form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="286">
-            <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/csc-match.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -493,13 +500,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/game-of-life.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="47" column="130" selection-start-line="47" selection-start-column="130" selection-end-line="47" selection-end-column="130" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ps-cosplay-mag.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -511,6 +511,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="45" column="97" selection-start-line="45" selection-start-column="97" selection-end-line="45" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact_form/contact_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game-of-life.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="47" column="130" selection-start-line="47" selection-start-column="130" selection-end-line="47" selection-end-column="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="286">
+            <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="121" column="69" selection-start-line="121" selection-start-column="69" selection-end-line="121" selection-end-column="69" />
         </state>
       </provider>
     </entry>
