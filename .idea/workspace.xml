@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b3938415-9805-4229-b86c-b135d6d599d4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -64,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="623" column="32" selection-start-line="623" selection-start-column="32" selection-end-line="623" selection-end-column="32" />
+            <state relative-caret-position="300">
+              <caret line="507" column="125" selection-start-line="507" selection-start-column="125" selection-end-line="507" selection-end-column="125" />
             </state>
           </provider>
         </entry>
@@ -176,7 +175,7 @@
       <option name="presentableId" value="Default" />
       <updated>1544996522140</updated>
       <workItem from="1544996523587" duration="10411000" />
-      <workItem from="1558548802150" duration="1909000" />
+      <workItem from="1558548802150" duration="3196000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1544999323792</created>
@@ -402,15 +401,28 @@
       <option name="project" value="LOCAL" />
       <updated>1558550581707</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="removing skill percents">
+      <created>1558550738442</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1558550738442</updated>
+    </task>
+    <task id="LOCAL-00034" summary="typo fix">
+      <created>1558552660461</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1558552660461</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12320000" />
+    <option name="totallyTimeSpent" value="13607000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -455,7 +467,9 @@
     <MESSAGE value="updating contact page" />
     <MESSAGE value="fixing description" />
     <MESSAGE value="removing favicon" />
-    <option name="LAST_COMMIT_MESSAGE" value="removing favicon" />
+    <MESSAGE value="removing skill percents" />
+    <MESSAGE value="typo fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="typo fix" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/404.html">
@@ -572,8 +586,8 @@
         </state>
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="623" column="32" selection-start-line="623" selection-start-column="32" selection-end-line="623" selection-end-column="32" />
+        <state relative-caret-position="300">
+          <caret line="507" column="125" selection-start-line="507" selection-start-column="125" selection-end-line="507" selection-end-column="125" />
         </state>
       </provider>
     </entry>
